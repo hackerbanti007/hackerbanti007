@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hackerbanti007
+- 👋 Hi, I’m @Banti Yadav
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning c++ and sql
 - 💞️ I’m looking to collaborate on insta
-- 📫 How to reach me @hackerbanti007 on insta
+- 📫 How to reach me @yadavbanti on insta
 - 
 
 <!---
